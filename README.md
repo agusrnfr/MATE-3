@@ -5,4 +5,5 @@
 </p>
 
 ## Prácticas
-* [**Práctica 1**]()
+### No garantizo que este todo bien
+* [**Práctica 1**](https://github.com/agusrnfr/MATE-3/blob/main/Practicas/Resoluciones/Pr%C3%A1ctica%201-%20Matem%C3%A1tica%203.pdf)
