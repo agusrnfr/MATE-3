@@ -6,5 +6,7 @@
 
 ## Prácticas
 ### No garantizo que este todo bien
-* [**Práctica 1**](https://github.com/agusrnfr/MATE-3/blob/main/Practicas/Resoluciones/Pr%C3%A1ctica%201-%20Matem%C3%A1tica%203.pdf)
-* [**Práctica 2**](https://github.com/agusrnfr/MATE-3/blob/main/Practicas/Resoluciones/Pr%C3%A1ctica%202%20-%20Matem%C3%A1tica%203.pdf)
+* [**Práctica 1**](https://github.com/agusrnfr/MATE-3/tree/main/Practicas/Resoluciones/Practica1)
+* [**Práctica 2**](https://github.com/agusrnfr/MATE-3/tree/main/Practicas/Resoluciones/Practica2)
+* [**Práctica 3**](https://github.com/agusrnfr/MATE-3/tree/main/Practicas/Resoluciones/Practica3)
+* [**Práctica 4**](https://github.com/agusrnfr/MATE-3/tree/main/Practicas/Resoluciones/Practica4)
