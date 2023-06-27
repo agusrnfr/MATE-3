@@ -12,3 +12,4 @@
 * [**Práctica 4**](https://github.com/agusrnfr/MATE-3/tree/main/Practicas/Resoluciones/Practica4)
 * [**Práctica 5**](https://github.com/agusrnfr/MATE-3/tree/main/Practicas/Resoluciones/Practica5)
 * [**Práctica 6**](https://github.com/agusrnfr/MATE-3/tree/main/Practicas/Resoluciones/Practica6)
+* [**Práctica 7**](https://github.com/agusrnfr/MATE-3/tree/main/Practicas/Resoluciones/Practica7)
